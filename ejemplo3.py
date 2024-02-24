@@ -4,7 +4,7 @@ import os
 
 try:
     os.system("cls || clear")
-    os.system("color 0a")
+    
     for i in range(1, 101):
         print(i)
 except:

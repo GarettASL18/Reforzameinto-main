@@ -1,4 +1,4 @@
-# Leer la edad de una persona y decir si puede votor o no
+# Leer la edad de una persona y decir si puede votar o no
 import os
 
 os.system("cls || clear")
